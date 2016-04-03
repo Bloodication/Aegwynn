@@ -11,4 +11,9 @@ Expected behaviour:
 
 Steps to reproduce the problem:
 
+1.
+
+2.
+
+3.
 
