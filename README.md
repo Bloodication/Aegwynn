@@ -5,13 +5,10 @@ This is used to report bugs on: aegwynn.org.
 
 Description:
 
-Explain the issue.
+Current behaviour: 
 
-Current behaviour: Explain the current behaviour of the issue.
-
-Expected behaviour: Explain the expected behaviour of the issue.
+Expected behaviour: 
 
 Steps to reproduce the problem:
 
-Explain how to repoduce the issue.
 
